@@ -1,0 +1,286 @@
+{
+    "allRecipes": [
+        {
+            "name": "france",
+            "recipes": [
+                {
+                    "id": 100,
+                    "title": "crème anglaise",
+                    "ingredients": [
+                        {
+                            "name": "lait",
+                            "quantity": 1,
+                            "unit": "UNIT_LITER"
+                        },
+                        {
+                            "name": "sucre",
+                            "quantity": 250,
+                            "unit": "UNIT_GRAM"
+                        },
+                        {
+                            "name": "jaune d'oeuf",
+                            "quantity": 8,
+                            "unit": "UNIT_OBJECT"
+                        },
+                        {
+                            "name": "gousse vanille",
+                            "quantity": 1,
+                            "unit": "UNIT_POD"
+                        }
+                    ]
+                },
+                {
+                    "id": 101,
+                    "title": "crème pâtissière",
+                    "ingredients": [
+                        {
+                            "name": "lait",
+                            "quantity": 1,
+                            "unit": "UNIT_LITER"
+                        },
+                        {
+                            "name": "sucre",
+                            "quantity": 250,
+                            "unit": "UNIT_GRAM"
+                        },
+                        {
+                            "name": "farine",
+                            "quantity": 125,
+                            "unit": "UNIT_GRAM"
+                        },
+                        {
+                            "name": "jaune d'oeuf",
+                            "quantity": 8,
+                            "unit": "UNIT_OBJECT"
+                        },
+                        {
+                            "name": "gousse vanille",
+                            "quantity": 1,
+                            "unit": "UNIT_POD"
+                        }
+                    ]
+                },
+                {
+                    "id": 103,
+                    "title": "riz au lait",
+                    "ingredients": [
+                        {
+                            "name": "lait",
+                            "quantity": 1,
+                            "unit": "UNIT_LITER"
+                        },
+                        {
+                            "name": "sucre",
+                            "quantity": 400,
+                            "unit": "UNIT_GRAM"
+                        },
+                        {
+                            "name": "riz",
+                            "quantity": 200,
+                            "unit": "UNIT_GRAM"
+                        },
+                        {
+                            "name": "gousse vanille",
+                            "quantity": 1,
+                            "unit": "UNIT_POD"
+                        }
+                    ]
+                },
+                {
+                    "id": 104,
+                    "title": "crème brulée",
+                    "ingredients": [
+                        {
+                            "name": "lait",
+                            "quantity": 1,
+                            "unit": "UNIT_LITER"
+                        },
+                        {
+                            "name": "sucre",
+                            "quantity": 100,
+                            "unit": "UNIT_GRAM"
+                        },
+                        {
+                            "name": "jaune d'oeuf",
+                            "quantity": 10,
+                            "unit": "UNIT_OBJECT"
+                        },
+                        {
+                            "name": "gousse vanille",
+                            "quantity": 1,
+                            "unit": "UNIT_POD"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "amérique",
+            "recipes": [
+                {
+                    "id": 300,
+                    "title": "wrap",
+                    "ingredients": [
+                        {
+                            "name": "tortilla",
+                            "quantity": 4,
+                            "unit": "UNIT_OBJECT"
+                        },
+                        {
+                            "name": "salade",
+                            "quantity": 1,
+                            "unit": "UNIT_GRAM"
+                        },
+                        {
+                            "name": "tomate",
+                            "quantity": 9,
+                            "unit": "UNIT_SLICE"
+                        },
+                        {
+                            "name": "concombre",
+                            "quantity": 12,
+                            "unit": "UNIT_SLICE"
+                        },
+                        {
+                            "name": "oignon",
+                            "quantity": 4,
+                            "unit": "UNIT_SLICE"
+                        },
+                        {
+                            "name": "poulet",
+                            "quantity": 300,
+                            "unit": "UNIT_GRAM"
+                        },
+                        {
+                            "name": "fromage",
+                            "quantity": 4,
+                            "unit": "UNIT_SLICE"
+                        },
+                        {
+                            "name": "sauce au choix",
+                            "unit": "UNIT_PM"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "italie",
+            "recipes": [
+                {
+                    "id": 200,
+                    "title": "panacotta",
+                    "ingredients": [
+                        {
+                            "name": "lait",
+                            "quantity": 1,
+                            "unit": "UNIT_LITER"
+                        },
+                        {
+                            "name": "sucre",
+                            "quantity": 200,
+                            "unit": "UNIT_GRAM"
+                        },
+                        {
+                            "name": "gélatine",
+                            "quantity": 27,
+                            "unit": "UNIT_GRAM"
+                        },
+                        {
+                            "name": "gousse vanille",
+                            "quantity": 1,
+                            "unit": "UNIT_POD"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "japon",
+            "recipes": [
+                {
+                    "id": 200,
+                    "title": "sushi",
+                    "ingredients": [
+                        {
+                            "name": "riz",
+                            "quantity": 500,
+                            "unit": "UNIT_GRAM"
+                        },
+                        {
+                            "name": "vinaigre de riz",
+                            "quantity": 60,
+                            "unit": "UNIT_MILLILITERS"
+                        },
+                        {
+                            "name": "sucre",
+                            "quantity": 30,
+                            "unit": "UNIT_GRAM"
+                        },
+                        {
+                            "name": "sel",
+                            "quantity": 5,
+                            "unit": "UNIT_GRAM"
+                        },
+                        {
+                            "name": "saumon",
+                            "quantity": 200,
+                            "unit": "UNIT_GRAM"
+                        },
+                        {
+                            "name": "avocat",
+                            "quantity": 1,
+                            "unit": "UNIT_OBJECT"
+                        },
+                        {
+                            "name": "algue nori",
+                            "quantity": 10,
+                            "unit": "UNIT_SHEET"
+                        }
+                    ]
+                },
+                {
+                    "id": 201,
+                    "title": "ramen",
+                    "ingredients": [
+                        {
+                            "name": "nouilles ramen",
+                            "quantity": 2,
+                            "unit": "UNIT_PACK"
+                        },
+                        {
+                            "name": "bouillon de poulet",
+                            "quantity": 800,
+                            "unit": "UNIT_MILLILITERS"
+                        },
+                        {
+                            "name": "filet de porc",
+                            "quantity": 200,
+                            "unit": "UNIT_GRAM"
+                        },
+                        {
+                            "name": "oeuf",
+                            "quantity": 2,
+                            "unit": "UNIT_OBJECT"
+                        },
+                        {
+                            "name": "oignon vert",
+                            "quantity": 2,
+                            "unit": "UNIT_OBJECT"
+                        },
+                        {
+                            "name": "pousse de bambou",
+                            "quantity": 100,
+                            "unit": "UNIT_GRAM"
+                        },
+                        {
+                            "name": "algue nori",
+                            "quantity": 2,
+                            "unit": "UNIT_SHEET"
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,21 @@
+{
+  "name": "master_cook",
+  "version": "1.0.0",
+  "description": "En vous aidant des [Consignes](Consignes.md), réaliser une application web de gestion de recettes de cuisines.",
+  "main": "app.js",
+  "scripts": {
+    "start": "cross-env NODE_ENV=production node  bin/www",
+    "dev": "cross-env NODE_ENV=development nodemon bin/www"  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.20.2",
+    "cross-env": "^7.0.3",
+    "express": "^4.18.2",
+    "uuid": "^9.0.0"
+  },
+  "devDependencies": {
+    "nodemon": "^3.0.1"
+  }
+}

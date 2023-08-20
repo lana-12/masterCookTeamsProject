@@ -1,0 +1,12 @@
+gramme -> "UNIT_GRAM",
+objet -> "UNIT_OBJECT" (exemple: 12 pommes de terre),
+sachet -> "UNIT_PACK",
+tranche -> "UNIT_SLICE",
+millilitre -> "UNIT_MILLILITERS",
+litre -> "UNIT_LITER",
+cuillère à soupe -> "UNIT_TABLESPOON",
+cuillère à café -> "UNIT_TEASPOON",
+cube -> "UNIT_CUBE",
+gousse -> "UNIT_POD",
+pincée -> "UNIT_PINCH"
+quantité selon le goût du cuisinier -> "UNIT_PM"
